@@ -1,0 +1,20 @@
+{
+    "name": "linguiming/test",
+    "description": "A simple and mini PHP upload class",
+    "require": {
+        "php": ">=5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lgm",
+            "email": "625236752@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "MiniUpload\\": "src/"
+        }
+    }
+}
